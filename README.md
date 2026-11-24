@@ -2,7 +2,7 @@
 
 Predicts whether a news article will be popular on social media (1,400+ shares) using only what is known when it is published. Built on 39,644 real Mashable articles from the UCI Online News Popularity dataset, with models trained on older articles and tested on newer ones.
 
-**Live demo:** LIVE_DEMO_URL
+**Live demo:** https://mq-social-media-shares-prediction.streamlit.app/
 
 ![Popularity by group](reports/figures/popularity_by_group.png)
 
