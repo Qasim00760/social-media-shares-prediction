@@ -1,0 +1,5 @@
+model,ROC_AUC,accuracy,precision,recall,F1
+Always predict the majority class,0.5,0.479,0.479,1.0,0.648
+Logistic Regression,0.714,0.658,0.636,0.671,0.653
+Random Forest,0.733,0.67,0.642,0.707,0.673
+Gradient Boosting,0.736,0.669,0.643,0.698,0.669
